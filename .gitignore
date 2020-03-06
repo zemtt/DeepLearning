@@ -2,3 +2,7 @@
 .vscode/settings.json
 **/.DS_Store
 /vscode
+*.pdf
+MCM_2020/Data/model
+*.zip
+*.pkl
